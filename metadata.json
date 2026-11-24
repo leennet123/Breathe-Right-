@@ -1,0 +1,6 @@
+{
+  "name": "BreatheRight Urban",
+  "description": "Deterministic urban air quality risk engine, 24-hour safe window finder, and grounded Gemini outdoor planning assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
